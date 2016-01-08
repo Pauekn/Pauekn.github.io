@@ -6,7 +6,7 @@ published: true
 ---
 
 
-My name is Paul, and I like to dabble with Open Source technology, GNU/Linux in particular. I am also a fan of Fantasy worlds and their lores.
+I am Paul, and I like to dabble with Open Source technology, GNU/Linux in particular. I am also a fan of Fantasy worlds and their lores.
 
 ### Contact me
 
